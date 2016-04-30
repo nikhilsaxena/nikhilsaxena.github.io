@@ -76,3 +76,9 @@
   .contact_line_spacing{
    line-height: 180%;  
   }
+  
+  .footer
+  {
+  	height: 100px;
+  }	
+  }
